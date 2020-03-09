@@ -1,5 +1,6 @@
 Feature: Check MarketPlace
 @Regression
+@Saurab
   Scenario: Verify marketplace is working
     Given I have the site up and running
     When I enter correct Admin and admin123

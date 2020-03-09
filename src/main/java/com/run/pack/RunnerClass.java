@@ -11,7 +11,7 @@ import cucumber.api.junit.Cucumber;
 		monochrome = true,
 		features="FeatureFolder",
 		glue="com.org.rely",
-		tags="@Negative",
+		tags="@Saurab",
 		plugin={"pretty:STDOUT","html:target/HTMLCucumberReport","json:target/Cucumber.json"}
 		
 )
